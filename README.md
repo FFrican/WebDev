@@ -1,5 +1,0 @@
-# WebDev
-
----
-permalink: /index.html
----
